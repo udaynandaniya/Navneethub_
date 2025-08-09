@@ -1,6 +1,5 @@
 NavneetHub – Buy & Sell Used Navneet Books in Your Area
 
-Live Project: https://navneethub.vercel.app/
 
 About the Project
 NavneetHub is a platform for students (Standard 1–12) to buy affordable used Navneet books or sell their completed ones, helping others save money and reduce waste.
